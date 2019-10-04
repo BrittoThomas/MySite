@@ -1,0 +1,144 @@
+body {
+  margin: 0;
+  text-align: center;
+  line-height: 2;
+  font-family: Maven Pro;
+}
+
+hr {
+  border-style: solid none none;
+  border-color: white;
+  border-width: 2px
+}
+
+h2 {
+  color: #66BFBF;
+  font-size: 30px;
+  font-weight: bold;
+}
+
+h3 {
+  color: #66BFBF;
+  font-size: 25px;
+  font-weight: bold;
+}
+
+.name {
+  margin: 0 auto 0 auto;
+  color: #66BFBF;
+  width: 50%;
+  font-family: Indie Flower;
+  font-size: 60px;
+}
+
+.position {
+  padding: 0 0 50px;
+  margin: 0 auto 0 auto;
+  color: #66BFBF;
+  font-family: Pacifico;
+  font-size: 30px;
+  font-weight: normal;
+}
+
+.circular {
+  border-radius: 100%;
+}
+
+.top-div {
+  background-color: #eeeeee;
+  position: relative;
+  margin: 0;
+  padding: 100px 0 0;
+}
+
+.middle-div {
+  padding: 100px;
+}
+
+.bottom-div {
+  background-color: #23374d;
+  padding: 50px 0 20px;
+}
+
+.cloud1 {
+  width: 200px;
+  opacity: 0.5;
+  position: absolute;
+  right: 300px;
+  top: 50px;
+}
+
+.cloud2 {
+  width: 200px;
+  opacity: 0.5;
+  position: absolute;
+  left: 300px;
+  bottom: 200px;
+}
+
+.mountain {
+  width: 80%;
+  opacity: 0.5;
+}
+
+.profile-image {
+  width: 200px;
+  height: 200px;
+}
+
+.skills {
+  padding: 50px;
+  background-color: #eeeeee;
+}
+
+.skill-row {
+  text-align: left;
+  height: 200px;
+}
+
+.developing {
+  width: 200px;
+  height: 200px;
+  float: left;
+}
+
+.designing {
+  width: 200px;
+  height: 200px;
+  float: right;
+}
+
+.teamplayer {
+  width: 200px;
+  height: 200px;
+  float: left;
+}
+
+.teamleading {
+  width: 200px;
+  height: 200px;
+  float: right;
+}
+
+.button {
+  background-color: #07b717;
+  color: #fff;
+  display: inline-flex;
+  justify-content: center;
+  align-items: center;
+  text-transform: uppercase;
+  border-width: 1px;
+  border-style: solid;
+  border-radius: 3px;
+  font-size: 14px;
+  font-weight: 600;
+  height: 38px;
+  padding: 0 17px;
+  text-decoration: none;
+}
+
+.footer-link{
+  color: white;
+  margin: 20px;
+  text-decoration: none;
+}
